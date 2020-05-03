@@ -48,7 +48,8 @@ for termo in entrada:
       aux3 = alfabeto[aux2]
       i += 1
       print (aux3, end=" ")
-      
+
+#'decifrado': 'if the facts do not fit  the theory, change the facts. albert einstein'
 #-------------------------------------------------------------------------------------------------
 #Criptografando com sha1 a frase descoberta
 
